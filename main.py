@@ -9,7 +9,6 @@ It's not the model I choosed to use in production // SEE ACTUAL SCRIPT TO USE.py
 """
 
 import os
-import cv2
 import time
 import itertools
 import numpy as np
