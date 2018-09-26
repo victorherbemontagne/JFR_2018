@@ -10,7 +10,7 @@ from tensorflow.python.keras.applications.vgg16 import VGG16
 from tensorflow.python.keras.applications.vgg16 import preprocess_input
 from tensorflow.python.keras.models import Model 
 
-os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
+#os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
 """
 File where we describe the loss that can be pluged to the model
 """

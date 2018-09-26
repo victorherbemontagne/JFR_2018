@@ -23,7 +23,7 @@ from tensorflow.python.keras.applications.vgg16 import VGG16
 from tensorflow.python.keras.applications.vgg16 import preprocess_input
 from tensorflow.python.keras.preprocessing import image as img
 
-os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
+#os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
 
 from utils_model import encode,decode,residual_block, build_net
 
