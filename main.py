@@ -23,7 +23,7 @@ from tensorflow.python.keras.applications.vgg16 import VGG16
 from tensorflow.python.keras.applications.vgg16 import preprocess_input
 from tensorflow.python.keras.preprocessing import image as img
 
-#os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
+os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
 
 from utils_model import encode,decode,residual_block, build_net
 
@@ -70,8 +70,8 @@ tf.summary.image("output_of_net",output_net)
 tf.summary.image("target",targett)
 merged_summary = tf.summary.merge_all()
 
-with tf.Session() as sess:
-    try:
+try:
+    with tf.Session() as sess:
         saver = tf.train.Saver()
         writer = tf.summary.FileWriter("summaries/test_5")
         writer.add_graph(sess.graph)
@@ -91,7 +91,8 @@ with tf.Session() as sess:
                 
             _,cost_int,summary = sess.run([training_op,mean_cost,merged_summary],feed_dict={
                                                                         "input_tensor:0": batch_glasses,
-                                                                        "target_tensor:0":batch_no_glasses
+                                                                        "target_tensor:0":batch_no_glasses,
+                                                                        K.backend.learning_phase():1
                                                                         })
             num_pass += 1
             writer.add_summary(summary,num_pass)
@@ -109,9 +110,9 @@ with tf.Session() as sess:
                 print("Model saved in --> {}".format(save_path))
                 print()
                 epoch_prev = epoch
-    except Exception as e:
-        sess.close()
-        raise e
+except Exception as e:
+    sess.close()
+    raise e
 
 
 
