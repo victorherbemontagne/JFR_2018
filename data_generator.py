@@ -17,7 +17,7 @@ from tqdm import tqdm
 
 
 from tensorflow.python.keras.preprocessing import image as img
-os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
+#os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
 
 from utils import load_config
 
