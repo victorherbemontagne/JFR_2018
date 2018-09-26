@@ -28,7 +28,6 @@ dependencies:
   - readline=7.0=haf1bffa_1
   - setuptools=40.2.0=py36_0
   - six=1.11.0=py36_1
-  - sqlite=3.24.0=h2f33b56_1
   - termcolor=1.1.0=py_2
   - tk=8.6.8=0
   - webencodings=0.5.1=py_1
@@ -93,5 +92,7 @@ dependencies:
   - tensorflow-tensorboard=1.5.1=py36hf484d3e_1
   - toolz=0.9.0=py36_0
   - tornado=5.1=py36h14c3975_0
+  - tqdm
+  - nibabel=2.3.0
 prefix: /home/dherbemont_vic/.conda/envs/JFR
 

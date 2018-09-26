@@ -23,8 +23,10 @@ from tensorflow.python.keras.applications.vgg16 import VGG16
 from tensorflow.python.keras.applications.vgg16 import preprocess_input
 from tensorflow.python.keras.preprocessing import image as img
 
-os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
-
+try:
+    os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018")
+except Exception as e:
+    pass
 from utils_model import encode,decode,residual_block, build_net
 
 from losses import loss_function
