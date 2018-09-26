@@ -6,13 +6,12 @@ test can be run in the part bellow the main code
 """
 
 import os
-import cv2
 import random
 
 import matplotlib.pyplot as plt
 import nibabel as nib
 import numpy as np
-import cv2
+#import cv2
 from tqdm import tqdm
 
 
