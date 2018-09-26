@@ -1,6 +1,6 @@
 from tensorflow.python.keras.preprocessing import image as img
 
-def load_config(path="config.json"):
+def load_config(path="config_for_outside.json"):
     import json
     f = open(path)
     config = json.load(f)
