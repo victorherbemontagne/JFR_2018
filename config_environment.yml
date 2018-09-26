@@ -1,4 +1,4 @@
-name: JFR
+name: JFR_2018
 channels:
   - conda-forge
   - defaults
@@ -94,5 +94,5 @@ dependencies:
   - tornado=5.1=py36h14c3975_0
   - tqdm
   - nibabel=2.3.0
-prefix: /home/dherbemont_vic/.conda/envs/JFR
+prefix: /home/dherbemont_vic/.conda/envs/JFR_2018
 
