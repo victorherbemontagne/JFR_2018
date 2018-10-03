@@ -58,7 +58,7 @@ def give_generators(config):
     p.flip_left_right(probability=0.5)
     p.random_distortion(probability=0.7, grid_width=4, grid_height=4, magnitude=8)    
     train_generator = p.keras_generator_from_array(train_images, train_labels, batch_size=config['batch_size'])
-    test_generator  = p.keras_generator_from_array(test_images, test_labels, batch_size=2*config['batch_size'])
+    test_generator  = p.keras_generator_from_array(test_images, test_labels, batch_size=config['batch_size'])
     return(train_generator,test_generator)
 
 ## TEST

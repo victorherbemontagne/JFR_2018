@@ -1,7 +1,7 @@
 {
 	"path_source":"data_raw",
 	"path_csv_labels":"train_set.csv",
-	"batch_size":6,
+	"batch_size":16,
 	"n_epoch":10,
 	"input_shape":[440,440,1],
 	"nbr_residuals":2,
