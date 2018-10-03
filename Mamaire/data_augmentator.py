@@ -76,7 +76,7 @@ def give_generators(config):
 #        print(labels.shape)
 #        index += 1
 #    else:
-{        break
+#        break
 #
 
 
