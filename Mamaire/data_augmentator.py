@@ -16,7 +16,6 @@ path_config = "config_for_outside.json"
 config = load_config(path_config)
 #SAVE IMAGES in .npy
 
-os.chdir(r"D:\Deepnews\deepnews_github\JFR_2018\Mamaire")
 
 def give_generators(config):
 
