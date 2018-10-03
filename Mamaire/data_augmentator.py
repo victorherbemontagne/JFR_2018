@@ -9,7 +9,11 @@ import random
 from sklearn.model_selection import train_test_split
 import Augmentor
 
-os.chdir("D:\Deepnews\deepnews_github\JFR_2018\Mamaire")
+try:
+    os.chdir("D:\Deepnews\deepnews_github\JFR_2018\Mamaire")
+except Exception as e:
+    print(e)
+    pass
 
 path_config = "config_for_outside.json"
 from utils import load_config
