@@ -55,8 +55,7 @@ chkpt_callbacks = K.callbacks.ModelCheckpoint("mode_saved/weights.{epoch:02d}-{v
                                                 mode='auto', 
                                                 period=1)
 
-data_path= r"D:\Deepnews\deepnews_github\JFR_2018\Mamaire\data_raw"
-path_csv_labels = r"D:\Deepnews\deepnews_github\JFR_2018\Mamaire\train_set.csv"
+
 
 train_gen, test_gen = give_generators(config)
   
