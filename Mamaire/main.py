@@ -58,13 +58,14 @@ chkpt_callbacks = K.callbacks.ModelCheckpoint("mode_saved/weights.{epoch:02d}-{v
 
 
 train_gen, test_gen = give_generators(config)
-  
+
+test_seq, labels_test = next(test_gen)
   
 model.fit_generator(train_gen,
                     steps_per_epoch=100,
                     epochs=config['n_epoch'],
                     callbacks=[TB_callbacks,chkpt_callbacks],
-                    validation_data=test_gen,
+                    validation_data=(test_seq, labels_test),
                     validation_steps=10)
 
 

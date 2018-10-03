@@ -58,26 +58,26 @@ def give_generators(config):
     p.flip_left_right(probability=0.5)
     p.random_distortion(probability=0.7, grid_width=4, grid_height=4, magnitude=8)    
     train_generator = p.keras_generator_from_array(train_images, train_labels, batch_size=config['batch_size'])
-    test_generator  = p.keras_generator_from_array(test_images, test_labels, batch_size=config['batch_size'])
+    test_generator  = p.keras_generator_from_array(test_images, test_labels, batch_size=2*config['batch_size'])
     return(train_generator,test_generator)
 
 ## TEST
 
 #data_path= r"D:\Deepnews\deepnews_github\JFR_2018\Mamaire\data_raw"
 #path_csv_labels = r"D:\Deepnews\deepnews_github\JFR_2018\Mamaire\train_set.csv"
-tr,tes = give_generators(config)
+#tr,tes = give_generators(config)
 
-index = 0
-for img,labels in tes:
-    if index < 20:
-        img = np.stack(img,axis=0)
-        labels = np.stack(labels, axis=0)
-        print(img.shape)
-        print(labels.shape)
-        index += 1
-    else:
-        break
-
+#index = 0
+#for img,labels in tes:
+#    if index < 20:
+#        img = np.stack(img,axis=0)
+#        labels = np.stack(labels, axis=0)
+#        print(img.shape)
+#        print(labels.shape)
+#        index += 1
+#    else:
+{        break
+#
 
 
 
