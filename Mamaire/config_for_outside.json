@@ -1,0 +1,14 @@
+{
+	"path_source":"data_raw",
+	"path_csv_labels":"train_set.csv",
+	"batch_size":6,
+	"n_epoch":10,
+	"input_shape":[440,440,1],
+	"nbr_residuals":2,
+	"weight_pixel_loss":1,
+	"weight_perceptual_loss":1,
+	"learning_rate":0.001,
+	"test_set_size":10
+}
+
+

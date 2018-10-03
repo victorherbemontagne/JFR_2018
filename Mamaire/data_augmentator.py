@@ -4,7 +4,6 @@ import numpy as np
 import vtk
 import os
 from tqdm import tqdm
-import cv2
 import numpy as np
 import pandas as pd
 import random
@@ -12,7 +11,7 @@ from sklearn.model_selection import train_test_split
 import Augmentor
 from utils import load_config
 
-path_config = "config.json"
+path_config = "config_for_outside.json"
 
 config = load_config(path_config)
 #SAVE IMAGES in .npy
@@ -24,8 +23,6 @@ def give_generators(config):
     list_files = os.listdir(config['path_source'])
     all_images = []
     for file in list_files:
-        #img = cv2.imread(os.path.join(path_imgs,file))
-        #img = img[:,:,0]
         img = nib.load(os.path.join(config['path_source'],file))
         img = img.get_data()
         if img.shape == (440,440):

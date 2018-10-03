@@ -1,5 +1,4 @@
 import os
-import cv2
 import time
 import itertools
 import numpy as np
@@ -28,7 +27,7 @@ from utils_model import encode,decode,residual_block, build_net
 
 from utils import load_config
 from data_augmentator import give_generators
-path_config = "config.json"
+path_config = "config_for_outside.json"
     
 config = load_config(path_config)
 
