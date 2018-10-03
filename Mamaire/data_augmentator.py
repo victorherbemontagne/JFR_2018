@@ -8,10 +8,11 @@ import pandas as pd
 import random
 from sklearn.model_selection import train_test_split
 import Augmentor
-from utils import load_config
+
+os.chdir("D:\Deepnews\deepnews_github\JFR_2018\Mamaire")
 
 path_config = "config_for_outside.json"
-
+from utils import load_config
 config = load_config(path_config)
 #SAVE IMAGES in .npy
 
@@ -37,14 +38,14 @@ def give_generators(config):
     labels_possible =  list(df_labels['Type de lésion'].value_counts().keys())
     all_labels = df_labels['Type de lésion'].values
     all_encoded_labels = [labels_possible.index(k) for k in all_labels]
-    
-    train_images, test_images, train_labels, test_labels = train_test_split(all_images,all_encoded_labels,test_size=0.1)
+    labels = Augmentor.Pipeline.categorical_labels(all_encoded_labels)
+    print(labels.shape)
+    train_images, test_images, train_labels, test_labels = train_test_split(all_images,labels,test_size=0.1)
     
     train_images = np.stack(train_images, axis=0)
     print("Train set shape for init --> {}".format(len(train_images)))
     print("Test set shape for init --> {}".format(len(test_images)))
-    tr_labels = Augmentor.Pipeline.categorical_labels(train_labels)
-    tes_labels = Augmentor.Pipeline.categorical_labels(test_labels)
+
 
 
     p = Augmentor.Pipeline()
@@ -52,17 +53,26 @@ def give_generators(config):
     p.flip_top_bottom(0.5)
     p.flip_left_right(probability=0.5)
     p.random_distortion(probability=0.7, grid_width=4, grid_height=4, magnitude=8)    
-    train_generator = p.keras_generator_from_array(train_images, tr_labels, batch_size=config['batch_size'])
-    test_generator  = p.keras_generator_from_array(test_images, tes_labels, batch_size=config['batch_size'])
+    train_generator = p.keras_generator_from_array(train_images, train_labels, batch_size=config['batch_size'])
+    test_generator  = p.keras_generator_from_array(test_images, test_labels, batch_size=config['batch_size'])
     return(train_generator,test_generator)
 
 ## TEST
 
 #data_path= r"D:\Deepnews\deepnews_github\JFR_2018\Mamaire\data_raw"
 #path_csv_labels = r"D:\Deepnews\deepnews_github\JFR_2018\Mamaire\train_set.csv"
-#tr,tes = give_generators(config)
+tr,tes = give_generators(config)
 
-
+index = 0
+for img,labels in tes:
+    if index < 20:
+        img = np.stack(img,axis=0)
+        labels = np.stack(labels, axis=0)
+        print(img.shape)
+        print(labels.shape)
+        index += 1
+    else:
+        break
 
 
 
