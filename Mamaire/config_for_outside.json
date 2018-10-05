@@ -7,7 +7,7 @@
 	"nbr_residuals":2,
 	"weight_pixel_loss":1,
 	"weight_perceptual_loss":1,
-	"learning_rate":0.001,
+	"learning_rate":0.0001,
 	"test_set_size":10
 }
 

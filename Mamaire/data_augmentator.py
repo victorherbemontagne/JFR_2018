@@ -29,6 +29,7 @@ def give_generators(config):
         img = nib.load(os.path.join(config['path_source'],file))
         img = img.get_data()
         if img.shape == (440,440):
+            img = (img-np.mean(img))/np.std(img)
             all_images.append(img)
         else:
             print("Wrong shape for image {} here ->{}".format(file,img.shape))
