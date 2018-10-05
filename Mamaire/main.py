@@ -42,13 +42,14 @@ output_net = build_net(config, inputt)
 
 model = Model(inputt,output_net)
 
-model.compile(optimizer="Adam",loss="categorical_crossentropy")
+model.compile(optimizer=Adam(lr=config['learning_rate']),loss="categorical_crossentropy")
 
 
 TB_callbacks = K.callbacks.TensorBoard(log_dir='./Graph', 
                                         histogram_freq=1, 
                                         write_graph=True, 
-                                        write_images=True)
+                                        write_images=True,
+                                        update_freq='epoch')
 chkpt_callbacks = K.callbacks.ModelCheckpoint("mode_saved/weights.{epoch:02d}-{val_loss:.2f}.hdf5", 
                                                 monitor='val_loss', verbose=0, save_best_only=True, 
                                                 save_weights_only=False, 
