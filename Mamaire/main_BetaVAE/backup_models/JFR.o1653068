@@ -1,0 +1,23 @@
+WARNING:tensorflow:From /home/dherbemont_vic/.conda/envs/JFR_2018/lib/python3.6/site-packages/tensorflow/python/keras/_impl/keras/backend.py:1456: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /home/dherbemont_vic/.conda/envs/JFR_2018/lib/python3.6/site-packages/tensorflow/python/keras/_impl/keras/backend.py:1557: calling reduce_mean (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+0it [00:00, ?it/s]199it [00:00, 749924.97it/s]
+  0%|          | 0/17 [00:00<?, ?it/s]  6%|▌         | 1/17 [00:48<12:50, 48.16s/it] 12%|█▏        | 2/17 [01:32<11:44, 46.99s/it] 18%|█▊        | 3/17 [01:42<08:22, 35.90s/it] 24%|██▎       | 4/17 [01:52<06:07, 28.24s/it] 29%|██▉       | 5/17 [02:02<04:32, 22.71s/it] 35%|███▌      | 6/17 [02:11<03:25, 18.65s/it] 41%|████      | 7/17 [02:20<02:37, 15.78s/it] 47%|████▋     | 8/17 [02:29<02:01, 13.54s/it] 53%|█████▎    | 9/17 [02:37<01:36, 12.02s/it] 59%|█████▉    | 10/17 [02:44<01:13, 10.54s/it] 65%|██████▍   | 11/17 [02:52<00:57,  9.60s/it] 71%|███████   | 12/17 [02:59<00:44,  8.86s/it] 76%|███████▋  | 13/17 [03:06<00:33,  8.29s/it] 82%|████████▏ | 14/17 [03:12<00:23,  7.82s/it] 88%|████████▊ | 15/17 [03:19<00:15,  7.56s/it] 94%|█████████▍| 16/17 [03:26<00:07,  7.32s/it]100%|██████████| 17/17 [03:33<00:00,  7.20s/it]2018-10-11 08:38:19.742131: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+2018-10-11 08:38:20.038682: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1105] Found device 0 with properties: 
+name: Tesla P100-PCIE-12GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:37:00.0
+totalMemory: 11.91GiB freeMemory: 11.62GiB
+2018-10-11 08:38:20.309068: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1105] Found device 1 with properties: 
+name: Tesla P100-PCIE-12GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+pciBusID: 0000:af:00.0
+totalMemory: 11.91GiB freeMemory: 11.62GiB
+2018-10-11 08:38:20.311094: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Device peer to peer matrix
+2018-10-11 08:38:20.311160: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1126] DMA: 0 1 
+2018-10-11 08:38:20.311175: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1136] 0:   Y Y 
+2018-10-11 08:38:20.311186: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1136] 1:   Y Y 
+2018-10-11 08:38:20.311224: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla P100-PCIE-12GB, pci bus id: 0000:37:00.0, compute capability: 6.0)
+2018-10-11 08:38:20.311238: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:1) -> (device: 1, name: Tesla P100-PCIE-12GB, pci bus id: 0000:af:00.0, compute capability: 6.0)
+

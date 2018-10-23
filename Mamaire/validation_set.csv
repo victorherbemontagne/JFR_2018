@@ -1,0 +1,136 @@
+new_index,Bénin,Malin,Type de lésion
+validation_sein_54,0,1,Carcinome canalaire infiltrant
+validation_sein_76,0,1,Carcinome canalaire infiltrant
+validation_sein_39,0,1,Carcinome canalaire infiltrant
+validation_sein_7,1,0,Fibroadénome
+validation_sein_99,0,1,Carcinome canalaire infiltrant
+validation_sein_53,0,1,Carcinome canalaire infiltrant
+validation_sein_88,1,0,Tissu glandulaire
+validation_sein_63,1,0,Tissu glandulaire
+validation_sein_49,1,0,Tissu glandulaire
+validation_sein_95,0,1,Carcinome intracanalaire
+validation_sein_126,1,0,cytostéatonécrose
+validation_sein_23,1,0,Tissu glandulaire
+validation_sein_58,1,0,Kyste
+validation_sein_11,1,0,Tissu glandulaire
+validation_sein_108,1,0,ganglio intra-mammaire
+validation_sein_118,1,0,Tissu glandulaire
+validation_sein_105,0,1,Carcinome lobulaire infiltrant
+validation_sein_70,1,0,Kyste
+validation_sein_121,1,0,Tissu glandulaire
+validation_sein_93,1,0,Fibroadénome
+validation_sein_116,1,0,Tissu glandulaire
+validation_sein_111,0,1,Cancer triple négatif
+validation_sein_92,0,1,Carcinome canalaire infiltrant
+validation_sein_41,1,0,Tissu glandulaire
+validation_sein_74,1,0,Tissu glandulaire
+validation_sein_133,1,0,Tissu glandulaire
+validation_sein_28,1,0,ganglio intra-mammaire
+validation_sein_132,1,0,Tissu glandulaire
+validation_sein_94,1,0,Tissu glandulaire
+validation_sein_55,1,0,Kyste
+validation_sein_66,1,0,ganglio intra-mammaire
+validation_sein_131,1,0,Tissu glandulaire
+validation_sein_87,1,0,Tissu glandulaire
+validation_sein_42,0,1,Carcinome canalaire infiltrant
+validation_sein_50,0,1,Carcinome canalaire infiltrant
+validation_sein_6,0,1,Carcinome canalaire infiltrant
+validation_sein_112,0,1,Carcinome canalaire infiltrant
+validation_sein_5,1,0,Kyste
+validation_sein_110,0,1,Carcinome canalaire infiltrant
+validation_sein_82,1,0,Kyste
+validation_sein_64,0,1,Carcinome canalaire infiltrant
+validation_sein_130,1,0,Kyste
+validation_sein_24,0,1,Carcinome canalaire infiltrant
+validation_sein_37,1,0,ganglio intra-mammaire
+validation_sein_19,0,1,Carcinome canalaire infiltrant
+validation_sein_60,0,1,Carcinome canalaire infiltrant
+validation_sein_17,1,0,Tissu glandulaire
+validation_sein_73,1,0,Tissu glandulaire
+validation_sein_30,1,0,ganglio intra-mammaire
+validation_sein_44,1,0,ganglio intra-mammaire
+validation_sein_47,1,0,Tissu glandulaire
+validation_sein_9,1,0,cytostéatonécrose
+validation_sein_12,0,1,Carcinome lobulaire infiltrant
+validation_sein_119,1,0,Fibroadénome
+validation_sein_29,1,0,ganglio intra-mammaire
+validation_sein_75,1,0,Tissu glandulaire
+validation_sein_16,0,1,Carcinome canalaire infiltrant
+validation_sein_98,0,1,Carcinome canalaire infiltrant
+validation_sein_123,1,0,Tissu glandulaire
+validation_sein_15,1,0,cytostéatonécrose
+validation_sein_61,1,0,Fibroadénome
+validation_sein_59,1,0,Tissu glandulaire
+validation_sein_69,1,0,Hyperplasie canalaire sans atypie
+validation_sein_117,1,0,Kyste
+validation_sein_72,0,1,Carcinome lobulaire infiltrant
+validation_sein_89,0,1,Carcinome canalaire infiltrant
+validation_sein_38,1,0,Tissu glandulaire
+validation_sein_26,1,0,Tissu glandulaire
+validation_sein_134,0,1,Carcinome lobulaire infiltrant
+validation_sein_25,1,0,Tissu glandulaire
+validation_sein_124,1,0,Tissu glandulaire
+validation_sein_101,1,0,Tissu glandulaire
+validation_sein_18,1,0,ganglio intra-mammaire
+validation_sein_32,1,0,Hyperplasie canalaire sans atypie
+validation_sein_78,0,1,Cancer triple négatif
+validation_sein_52,1,0,Tissu glandulaire
+validation_sein_100,1,0,Kyste
+validation_sein_97,1,0,Tissu glandulaire
+validation_sein_128,1,0,Tissu glandulaire
+validation_sein_67,0,1,Carcinome canalaire infiltrant
+validation_sein_33,1,0,Kyste
+validation_sein_77,0,1,Carcinome canalaire infiltrant
+validation_sein_104,1,0,Autre lésion proliférante
+validation_sein_22,1,0,Fibroadénome
+validation_sein_4,0,1,Cancer triple négatif
+validation_sein_84,1,0,Tissu glandulaire
+validation_sein_13,1,0,Galactophorite
+validation_sein_79,1,0,Tissu glandulaire
+validation_sein_0,1,0,Tissu glandulaire
+validation_sein_65,1,0,ganglio intra-mammaire
+validation_sein_120,0,1,Cancer triple négatif
+validation_sein_114,0,1,Carcinome intracanalaire
+validation_sein_3,1,0,Fibroadénome
+validation_sein_71,0,1,Carcinome canalaire infiltrant
+validation_sein_103,1,0,Fibroadénome
+validation_sein_80,0,1,Carcinome canalaire infiltrant
+validation_sein_125,1,0,cytostéatonécrose
+validation_sein_48,1,0,Tissu glandulaire
+validation_sein_40,1,0,ganglio intra-mammaire
+validation_sein_2,1,0,Tissu glandulaire
+validation_sein_31,1,0,ganglio intra-mammaire
+validation_sein_1,0,1,Carcinome canalaire infiltrant
+validation_sein_86,1,0,Fibroadénome
+validation_sein_91,1,0,Fibroadénome
+validation_sein_107,0,1,Carcinome lobulaire infiltrant
+validation_sein_96,0,1,Carcinome lobulaire infiltrant
+validation_sein_46,0,1,Cancer triple négatif
+validation_sein_57,1,0,Kyste
+validation_sein_10,1,0,Tissu glandulaire
+validation_sein_127,1,0,Tissu glandulaire
+validation_sein_56,1,0,Tissu glandulaire
+validation_sein_51,1,0,Kyste
+validation_sein_34,1,0,Kyste
+validation_sein_83,1,0,Fibroadénome
+validation_sein_20,0,1,Carcinome canalaire infiltrant
+validation_sein_27,0,1,Carcinome canalaire infiltrant
+validation_sein_129,1,0,ganglio intra-mammaire
+validation_sein_36,1,0,Kyste
+validation_sein_106,1,0,Tissu glandulaire
+validation_sein_113,1,0,cytostéatonécrose
+validation_sein_90,1,0,Tissu glandulaire
+validation_sein_109,0,1,Carcinome canalaire infiltrant
+validation_sein_85,1,0,Tissu glandulaire
+validation_sein_43,0,1,Carcinome lobulaire infiltrant
+validation_sein_35,1,0,Fibroadénome
+validation_sein_8,0,1,Carcinome canalaire infiltrant
+validation_sein_115,0,1,Carcinome canalaire infiltrant
+validation_sein_62,0,1,Carcinome canalaire infiltrant
+validation_sein_45,1,0,Tissu glandulaire
+validation_sein_102,1,0,cytostéatonécrose
+validation_sein_21,1,0,Fibroadénome
+validation_sein_68,1,0,Fibroadénome
+validation_sein_14,1,0,Fibroadénome
+validation_sein_122,1,0,Galactophorite
+validation_sein_81,1,0,Tissu glandulaire

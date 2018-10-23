@@ -1,0 +1,335 @@
+,Bénin,Malin,Type de lésion
+0,0,1,Carcinome canalaire infiltrant
+1,0,1,Carcinome canalaire infiltrant
+2,0,1,Carcinome canalaire infiltrant
+3,1,0,Fibroadénome
+4,0,1,Carcinome canalaire infiltrant
+5,0,1,Carcinome canalaire infiltrant
+6,1,0,Tissu glandulaire
+7,1,0,Tissu glandulaire
+8,1,0,Tissu glandulaire
+9,0,1,Carcinome intracanalaire
+10,1,0,cytostéatonécrose
+11,1,0,Tissu glandulaire
+12,1,0,Kyste
+13,1,0,Tissu glandulaire
+14,1,0,ganglio intra-mammaire
+15,1,0,Tissu glandulaire
+16,0,1,Carcinome lobulaire infiltrant
+17,1,0,Kyste
+18,1,0,Tissu glandulaire
+19,1,0,Fibroadénome
+20,1,0,Tissu glandulaire
+21,0,1,Cancer triple négatif
+22,0,1,Carcinome canalaire infiltrant
+23,1,0,Tissu glandulaire
+24,1,0,Tissu glandulaire
+25,1,0,Tissu glandulaire
+26,1,0,ganglio intra-mammaire
+27,1,0,Tissu glandulaire
+28,1,0,Tissu glandulaire
+29,1,0,Kyste
+30,1,0,ganglio intra-mammaire
+31,1,0,Tissu glandulaire
+32,1,0,Tissu glandulaire
+33,0,1,Carcinome canalaire infiltrant
+34,0,1,Carcinome canalaire infiltrant
+35,0,1,Carcinome canalaire infiltrant
+36,0,1,Carcinome canalaire infiltrant
+37,1,0,Kyste
+38,0,1,Carcinome canalaire infiltrant
+39,1,0,Kyste
+40,0,1,Carcinome canalaire infiltrant
+41,1,0,Kyste
+42,0,1,Carcinome canalaire infiltrant
+43,1,0,ganglio intra-mammaire
+44,0,1,Carcinome canalaire infiltrant
+45,0,1,Carcinome canalaire infiltrant
+46,1,0,Tissu glandulaire
+47,1,0,Tissu glandulaire
+48,1,0,ganglio intra-mammaire
+49,1,0,ganglio intra-mammaire
+50,1,0,Tissu glandulaire
+51,1,0,cytostéatonécrose
+52,0,1,Carcinome lobulaire infiltrant
+53,1,0,Fibroadénome
+54,1,0,ganglio intra-mammaire
+55,1,0,Tissu glandulaire
+56,0,1,Carcinome canalaire infiltrant
+57,0,1,Carcinome canalaire infiltrant
+58,1,0,Tissu glandulaire
+59,1,0,cytostéatonécrose
+60,1,0,Fibroadénome
+61,1,0,Tissu glandulaire
+62,1,0,Hyperplasie canalaire sans atypie
+63,1,0,Kyste
+64,0,1,Carcinome lobulaire infiltrant
+65,0,1,Carcinome canalaire infiltrant
+66,1,0,Tissu glandulaire
+67,1,0,Tissu glandulaire
+68,0,1,Carcinome lobulaire infiltrant
+69,1,0,Tissu glandulaire
+70,1,0,Tissu glandulaire
+71,1,0,Tissu glandulaire
+72,1,0,ganglio intra-mammaire
+73,1,0,Hyperplasie canalaire sans atypie
+74,0,1,Cancer triple négatif
+75,1,0,Tissu glandulaire
+76,1,0,Kyste
+77,1,0,Tissu glandulaire
+78,1,0,Tissu glandulaire
+79,0,1,Carcinome canalaire infiltrant
+80,1,0,Kyste
+81,0,1,Carcinome canalaire infiltrant
+82,1,0,Autre lésion proliférante
+83,1,0,Fibroadénome
+84,0,1,Cancer triple négatif
+85,1,0,Tissu glandulaire
+86,1,0,Galactophorite
+87,1,0,Tissu glandulaire
+88,1,0,Tissu glandulaire
+89,1,0,ganglio intra-mammaire
+90,0,1,Cancer triple négatif
+91,0,1,Carcinome intracanalaire
+92,1,0,Fibroadénome
+93,0,1,Carcinome canalaire infiltrant
+94,1,0,Fibroadénome
+95,0,1,Carcinome canalaire infiltrant
+96,1,0,cytostéatonécrose
+97,1,0,Tissu glandulaire
+98,1,0,ganglio intra-mammaire
+99,1,0,Tissu glandulaire
+100,1,0,ganglio intra-mammaire
+101,0,1,Carcinome canalaire infiltrant
+102,1,0,Fibroadénome
+103,1,0,Fibroadénome
+104,0,1,Carcinome lobulaire infiltrant
+105,0,1,Carcinome lobulaire infiltrant
+106,0,1,Cancer triple négatif
+107,1,0,Kyste
+108,1,0,Tissu glandulaire
+109,1,0,Tissu glandulaire
+110,1,0,Tissu glandulaire
+111,1,0,Kyste
+112,1,0,Kyste
+113,1,0,Fibroadénome
+114,0,1,Carcinome canalaire infiltrant
+115,0,1,Carcinome canalaire infiltrant
+116,1,0,ganglio intra-mammaire
+117,1,0,Kyste
+118,1,0,Tissu glandulaire
+119,1,0,cytostéatonécrose
+120,1,0,Tissu glandulaire
+121,0,1,Carcinome canalaire infiltrant
+122,1,0,Tissu glandulaire
+123,0,1,Carcinome lobulaire infiltrant
+124,1,0,Fibroadénome
+125,0,1,Carcinome canalaire infiltrant
+126,0,1,Carcinome canalaire infiltrant
+127,0,1,Carcinome canalaire infiltrant
+128,1,0,Tissu glandulaire
+129,1,0,cytostéatonécrose
+130,1,0,Fibroadénome
+131,1,0,Fibroadénome
+132,1,0,Fibroadénome
+133,1,0,Galactophorite
+134,1,0,Tissu glandulaire
+135,0,1,Carcinome canalaire infiltrant
+136,1,0,Fibroadénome
+137,0,1,Carcinome canalaire infiltrant
+138,1,0,Tissu glandulaire
+139,0,1,Carcinome lobulaire infiltrant
+140,0,1,Carcinome lobulaire infiltrant
+141,1,0,ganglio intra-mammaire
+142,0,1,Carcinome canalaire infiltrant
+143,0,1,Carcinome canalaire infiltrant
+144,1,0,Tissu glandulaire
+145,1,0,cytostéatonécrose
+146,0,1,Carcinome canalaire infiltrant
+147,1,0,Tissu glandulaire
+148,0,1,Carcinome canalaire infiltrant
+149,1,0,PASH
+150,0,1,Carcinome canalaire infiltrant
+151,0,1,Carcinome canalaire infiltrant
+152,0,1,Carcinome mucineux
+153,1,0,Autre lésion proliférante
+154,0,1,Carcinome mucineux
+155,1,0,Tissu glandulaire
+156,0,1,Cancer triple négatif
+157,0,1,Cancer triple négatif
+158,0,1,Carcinome canalaire infiltrant
+159,1,0,Tissu glandulaire
+160,0,1,Carcinome canalaire infiltrant
+161,1,0,cytostéatonécrose
+162,1,0,Tissu glandulaire
+163,1,0,Fibroadénome
+164,1,0,Tissu glandulaire
+165,1,0,Tissu glandulaire
+166,1,0,Tissu glandulaire
+167,1,0,Tissu glandulaire
+168,0,1,Cancer triple négatif
+169,1,0,Tissu glandulaire
+170,0,1,Carcinome canalaire infiltrant
+171,1,0,ganglio intra-mammaire
+172,0,1,Carcinome intracanalaire
+173,0,1,Carcinome canalaire infiltrant
+174,1,0,Tissu glandulaire
+175,1,0,ganglio intra-mammaire
+176,1,0,Tissu glandulaire
+177,1,0,Tissu glandulaire
+178,1,0,Kyste
+179,0,1,Carcinome canalaire infiltrant
+180,0,1,Carcinome lobulaire infiltrant
+181,1,0,Kyste
+182,1,0,Kyste
+183,1,0,Galactophorite
+184,1,0,ganglio intra-mammaire
+185,1,0,ganglio intra-mammaire
+186,0,1,Carcinome canalaire infiltrant
+187,0,1,Carcinome canalaire infiltrant
+188,1,0,Adénose sclérosante
+189,1,0,Kyste
+190,1,0,Kyste
+191,1,0,Tissu glandulaire
+192,0,1,Cancer triple négatif
+193,0,1,Carcinome canalaire infiltrant
+194,1,0,ganglio intra-mammaire
+195,1,0,Tissu glandulaire
+196,1,0,Tissu glandulaire
+197,1,0,Tissu glandulaire
+198,1,0,Tissu glandulaire
+199,1,0,Tissu glandulaire
+200,0,1,Carcinome canalaire infiltrant
+201,0,1,Carcinome canalaire infiltrant
+202,0,1,Carcinome lobulaire infiltrant
+203,1,0,Tissu glandulaire
+204,1,0,ganglio intra-mammaire
+205,1,0,Tissu glandulaire
+206,1,0,Tissu glandulaire
+207,1,0,Autre lésion proliférante
+208,0,1,Carcinome canalaire infiltrant
+209,1,0,Tissu glandulaire
+210,1,0,Tissu glandulaire
+211,1,0,Autre lésion proliférante
+212,0,1,Carcinome canalaire infiltrant
+213,0,1,Carcinome canalaire infiltrant
+214,1,0,Hyperplasie canalaire sans atypie
+215,0,1,Carcinome canalaire infiltrant
+216,1,0,Autre lésion proliférante
+217,1,0,cytostéatonécrose
+218,0,1,Carcinome canalaire infiltrant
+219,0,1,Carcinome canalaire infiltrant
+220,0,1,Carcinome canalaire infiltrant
+221,1,0,Kyste
+222,0,1,Carcinome canalaire infiltrant
+223,1,0,ganglio intra-mammaire
+224,1,0,Fibroadénome
+225,1,0,Fibroadénome
+226,1,0,Fibroadénome
+227,1,0,ganglio intra-mammaire
+228,0,1,Carcinome canalaire infiltrant
+229,1,0,Autre lésion proliférante
+230,1,0,Tissu glandulaire
+231,0,1,Carcinome canalaire infiltrant
+232,0,1,Carcinome canalaire infiltrant
+233,1,0,Hyperplasie canalaire sans atypie
+234,1,0,Autre lésion proliférante
+235,0,1,Carcinome lobulaire infiltrant
+236,1,0,ganglio intra-mammaire
+237,0,1,Carcinome canalaire infiltrant
+238,1,0,Tissu glandulaire
+239,0,1,Carcinome canalaire infiltrant
+240,0,1,Carcinome canalaire infiltrant
+241,0,1,Cancer triple négatif
+242,0,1,Cancer triple négatif
+243,1,0,Tissu glandulaire
+244,0,1,Carcinome canalaire infiltrant
+245,0,1,Carcinome canalaire infiltrant
+246,1,0,Tissu glandulaire
+247,1,0,Tissu glandulaire
+248,1,0,Tissu glandulaire
+249,1,0,Tissu glandulaire
+250,1,0,Tissu glandulaire
+251,1,0,Tissu glandulaire
+252,0,1,Carcinome canalaire infiltrant
+253,0,1,Cancer triple négatif
+254,1,0,Tissu glandulaire
+255,0,1,Carcinome lobulaire infiltrant
+256,0,1,Carcinome canalaire infiltrant
+257,1,0,Tissu glandulaire
+258,0,1,Cancer triple négatif
+259,0,1,Carcinome lobulaire infiltrant
+260,1,0,Fibroadénome
+261,0,1,Carcinome canalaire infiltrant
+262,0,1,Carcinome canalaire infiltrant
+263,0,1,Carcinome canalaire infiltrant
+264,0,1,Carcinome canalaire infiltrant
+265,0,1,Carcinome intracanalaire
+266,0,1,Carcinome canalaire infiltrant
+267,1,0,Tissu glandulaire
+268,1,0,Adénose sclérosante
+269,0,1,Carcinome lobulaire infiltrant
+270,1,0,Tissu glandulaire
+271,0,1,Carcinome canalaire infiltrant
+272,0,1,Carcinome canalaire infiltrant
+273,1,0,Tissu glandulaire
+274,1,0,Fibroadénome
+275,1,0,cytostéatonécrose
+276,1,0,cytostéatonécrose
+277,1,0,ganglio intra-mammaire
+278,1,0,Tissu glandulaire
+279,1,0,Kyste
+280,0,1,Carcinome canalaire infiltrant
+281,1,0,Tissu glandulaire
+282,1,0,Tissu glandulaire
+283,1,0,Tissu glandulaire
+284,1,0,Tissu glandulaire
+285,1,0,cytostéatonécrose
+286,1,0,ganglio intra-mammaire
+287,0,1,Cancer triple négatif
+288,1,0,Cicatrice radiaire
+289,1,0,Cicatrice radiaire
+290,1,0,Fibroadénome
+291,1,0,Papillome
+292,0,1,Carcinome canalaire infiltrant
+293,0,1,Carcinome canalaire infiltrant
+294,0,1,Carcinome intracanalaire
+295,0,1,Carcinome lobulaire infiltrant
+296,1,0,Fibroadénome
+297,1,0,Tissu glandulaire
+298,0,1,Carcinome canalaire infiltrant
+299,1,0,Tissu glandulaire
+300,1,0,Kyste
+301,1,0,Tissu glandulaire
+302,1,0,Tissu glandulaire
+303,0,1,Carcinome canalaire infiltrant
+304,1,0,Autre lésion proliférante
+305,0,1,Cancer triple négatif
+306,0,1,Cancer triple négatif
+307,0,1,Carcinome canalaire infiltrant
+308,1,0,Tissu glandulaire
+309,1,0,Tissu glandulaire
+310,1,0,Tissu glandulaire
+311,0,1,Carcinome canalaire infiltrant
+312,0,1,Carcinome canalaire infiltrant
+313,1,0,cytostéatonécrose
+314,0,1,Carcinome canalaire infiltrant
+315,1,0,Tissu glandulaire
+316,1,0,Tissu glandulaire
+317,1,0,Tissu glandulaire
+318,1,0,Kyste
+319,0,1,Carcinome canalaire infiltrant
+320,0,1,Cancer triple négatif
+321,1,0,Adénose sclérosante
+322,1,0,Tissu glandulaire
+323,1,0,Galactophorite
+324,1,0,Kyste
+325,1,0,Tissu glandulaire
+326,1,0,Tissu glandulaire
+327,0,1,Cancer triple négatif
+328,1,0,Tissu glandulaire
+329,1,0,Tissu glandulaire
+330,1,0,Galactophorite
+331,1,0,Tissu glandulaire
+332,1,0,Tissu glandulaire
+333,1,0,Tissu glandulaire

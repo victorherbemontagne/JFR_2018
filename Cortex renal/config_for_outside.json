@@ -1,0 +1,15 @@
+{
+	"path_source":"data_cortex/source",
+	"path_mask":"data_cortex/masks",
+	"path_test_source":"data_cortex/test_source",
+	"path_test_mask":"data_cortex/test_mask",
+	"batch_size":2,
+	"n_epoch":15,
+	"input_shape":[192,192,1],
+	"nbr_residuals":5,
+	"weight_pixel_loss":1,
+	"weight_perceptual_loss":1,
+	"learning_rate":0.001
+}
+
+
