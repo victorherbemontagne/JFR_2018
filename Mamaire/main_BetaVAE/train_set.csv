@@ -1,0 +1,201 @@
+,Bénin,Malin,Type de lésion
+sein_1,0,1,Carcinome canalaire infiltrant
+sein_2,1,0,Fibroadénome
+sein_3,0,1,Carcinome canalaire infiltrant
+sein_6,1,0,Tissu glandulaire
+sein_7,0,1,Carcinome lobulaire infiltrant
+sein_10,0,1,Carcinome lobulaire infiltrant
+sein_12,1,0,ganglio intra-mammaire
+sein_13,0,1,Carcinome canalaire infiltrant
+sein_17,0,1,Carcinome canalaire infiltrant
+sein_24,1,0,Tissu glandulaire
+sein_25,1,0,cytostéatonécrose
+sein_26,0,1,Carcinome canalaire infiltrant
+sein_30,1,0,Tissu glandulaire
+sein_31,0,1,Carcinome canalaire infiltrant
+sein_33,1,0,PASH
+sein_40,0,1,Carcinome canalaire infiltrant
+sein_41,0,1,Carcinome canalaire infiltrant
+sein_43,0,1,Carcinome mucineux
+sein_44,1,0,Autre lésion proliférante
+sein_45,0,1,Carcinome mucineux
+sein_48,1,0,Tissu glandulaire
+sein_49,0,1,Cancer triple négatif
+sein_50,0,1,Cancer triple négatif
+sein_51,0,1,Carcinome canalaire infiltrant
+sein_52,1,0,Tissu glandulaire
+sein_53,0,1,Carcinome canalaire infiltrant
+sein_55,1,0,cytostéatonécrose
+sein_56,1,0,Tissu glandulaire
+sein_57,1,0,Fibroadénome
+sein_58,1,0,Tissu glandulaire
+sein_60,1,0,Tissu glandulaire
+sein_63,1,0,Tissu glandulaire
+sein_65,1,0,Tissu glandulaire
+sein_71,0,1,Cancer triple négatif
+sein_72,1,0,Tissu glandulaire
+sein_73,0,1,Carcinome canalaire infiltrant
+sein_77,1,0,ganglio intra-mammaire
+sein_79,0,1,Carcinome intracanalaire
+sein_80,0,1,Carcinome canalaire infiltrant
+sein_81,1,0,Tissu glandulaire
+sein_82,1,0,ganglio intra-mammaire
+sein_83,1,0,Tissu glandulaire
+sein_86,1,0,Tissu glandulaire
+sein_89,1,0,Kyste
+sein_95,0,1,Carcinome canalaire infiltrant
+sein_99,0,1,Carcinome lobulaire infiltrant
+sein_103,1,0,Kyste
+sein_104,1,0,Kyste
+sein_106,1,0,Galactophorite
+sein_109,1,0,ganglio intra-mammaire
+sein_111,1,0,ganglio intra-mammaire
+sein_112,0,1,Carcinome canalaire infiltrant
+sein_115,0,1,Carcinome canalaire infiltrant
+sein_123,1,0,Adénose sclérosante
+sein_128,1,0,Kyste
+sein_129,1,0,Kyste
+sein_131,1,0,Tissu glandulaire
+sein_133,0,1,Cancer triple négatif
+sein_134,0,1,Carcinome canalaire infiltrant
+sein_138,1,0,ganglio intra-mammaire
+sein_139,1,0,Tissu glandulaire
+sein_143,1,0,Tissu glandulaire
+sein_145,1,0,Tissu glandulaire
+sein_149,1,0,Tissu glandulaire
+sein_151,1,0,Tissu glandulaire
+sein_152,0,1,Carcinome canalaire infiltrant
+sein_153,0,1,Carcinome canalaire infiltrant
+sein_154,0,1,Carcinome lobulaire infiltrant
+sein_158,1,0,Tissu glandulaire
+sein_159,1,0,ganglio intra-mammaire
+sein_161,1,0,Tissu glandulaire
+sein_163,1,0,Tissu glandulaire
+sein_172,1,0,Autre lésion proliférante
+sein_179,0,1,Carcinome canalaire infiltrant
+sein_182,1,0,Tissu glandulaire
+sein_186,1,0,Tissu glandulaire
+sein_190,1,0,Autre lésion proliférante
+sein_199,0,1,Carcinome canalaire infiltrant
+sein_201,0,1,Carcinome canalaire infiltrant
+sein_207,1,0,Hyperplasie canalaire sans atypie
+sein_208,0,1,Carcinome canalaire infiltrant
+sein_209,1,0,Autre lésion proliférante
+sein_211,1,0,cytostéatonécrose
+sein_217,0,1,Carcinome canalaire infiltrant
+sein_219,0,1,Carcinome canalaire infiltrant
+sein_220,0,1,Carcinome canalaire infiltrant
+sein_221,1,0,Kyste
+sein_222,0,1,Carcinome canalaire infiltrant
+sein_223,1,0,ganglio intra-mammaire
+sein_228,1,0,Fibroadénome
+sein_229,1,0,Fibroadénome
+sein_230,1,0,Fibroadénome
+sein_235,1,0,ganglio intra-mammaire
+sein_239,0,1,Carcinome canalaire infiltrant
+sein_240,1,0,Autre lésion proliférante
+sein_243,1,0,Tissu glandulaire
+sein_244,0,1,Carcinome canalaire infiltrant
+sein_246,0,1,Carcinome canalaire infiltrant
+sein_252,1,0,Hyperplasie canalaire sans atypie
+sein_253,1,0,Autre lésion proliférante
+sein_258,0,1,Carcinome lobulaire infiltrant
+sein_259,1,0,ganglio intra-mammaire
+sein_261,0,1,Carcinome canalaire infiltrant
+sein_264,1,0,Tissu glandulaire
+sein_269,0,1,Carcinome canalaire infiltrant
+sein_270,0,1,Carcinome canalaire infiltrant
+sein_272,0,1,Cancer triple négatif
+sein_275,0,1,Cancer triple négatif
+sein_281,1,0,Tissu glandulaire
+sein_286,0,1,Carcinome canalaire infiltrant
+sein_289,0,1,Carcinome canalaire infiltrant
+sein_292,1,0,Tissu glandulaire
+sein_293,1,0,Tissu glandulaire
+sein_294,1,0,Tissu glandulaire
+sein_297,1,0,Tissu glandulaire
+sein_300,1,0,Tissu glandulaire
+sein_302,1,0,Tissu glandulaire
+sein_303,0,1,Carcinome canalaire infiltrant
+sein_305,0,1,Cancer triple négatif
+sein_309,1,0,Tissu glandulaire
+sein_310,0,1,Carcinome lobulaire infiltrant
+sein_311,0,1,Carcinome canalaire infiltrant
+sein_313,1,0,Tissu glandulaire
+sein_315,0,1,Cancer triple négatif
+sein_317,0,1,Carcinome lobulaire infiltrant
+sein_321,1,0,Fibroadénome
+sein_323,0,1,Carcinome canalaire infiltrant
+sein_324,0,1,Carcinome canalaire infiltrant
+sein_328,0,1,Carcinome canalaire infiltrant
+sein_335,0,1,Carcinome canalaire infiltrant
+sein_336,0,1,Carcinome intracanalaire
+sein_337,0,1,Carcinome canalaire infiltrant
+sein_338,1,0,Tissu glandulaire
+sein_340,1,0,Adénose sclérosante
+sein_344,0,1,Carcinome lobulaire infiltrant
+sein_345,1,0,Tissu glandulaire
+sein_347,0,1,Carcinome canalaire infiltrant
+sein_351,0,1,Carcinome canalaire infiltrant
+sein_359,1,0,Tissu glandulaire
+sein_362,1,0,Fibroadénome
+sein_366,1,0,cytostéatonécrose
+sein_367,1,0,cytostéatonécrose
+sein_369,1,0,ganglio intra-mammaire
+sein_372,1,0,Tissu glandulaire
+sein_377,1,0,Kyste
+sein_378,0,1,Carcinome canalaire infiltrant
+sein_383,1,0,Tissu glandulaire
+sein_384,1,0,Tissu glandulaire
+sein_385,1,0,Tissu glandulaire
+sein_410,1,0,Tissu glandulaire
+sein_412,1,0,cytostéatonécrose
+sein_414,1,0,ganglio intra-mammaire
+sein_415,0,1,Cancer triple négatif
+sein_422,1,0,Cicatrice radiaire
+sein_425,1,0,Cicatrice radiaire
+sein_426,1,0,Fibroadénome
+sein_428,1,0,Papillome
+sein_431,0,1,Carcinome canalaire infiltrant
+sein_433,0,1,Carcinome canalaire infiltrant
+sein_449,0,1,Carcinome intracanalaire
+sein_451,0,1,Carcinome lobulaire infiltrant
+sein_453,1,0,Fibroadénome
+sein_457,1,0,Tissu glandulaire
+sein_458,0,1,Carcinome canalaire infiltrant
+sein_459,1,0,Tissu glandulaire
+sein_466,1,0,Kyste
+sein_470,1,0,Fibroadénome
+sein_472,1,0,Tissu glandulaire
+sein_474,1,0,Tissu glandulaire
+sein_478,0,1,Carcinome canalaire infiltrant
+sein_482,1,0,Autre lésion proliférante
+sein_483,0,1,Cancer triple négatif
+sein_484,0,1,Cancer triple négatif
+sein_493,0,1,Carcinome canalaire infiltrant
+sein_500,1,0,Tissu glandulaire
+sein_503,1,0,Tissu glandulaire
+sein_504,1,0,Tissu glandulaire
+sein_507,0,1,Carcinome canalaire infiltrant
+sein_509,0,1,Carcinome canalaire infiltrant
+sein_516,1,0,cytostéatonécrose
+sein_517,0,1,Carcinome canalaire infiltrant
+sein_519,1,0,Tissu glandulaire
+sein_524,1,0,Tissu glandulaire
+sein_525,1,0,Tissu glandulaire
+sein_526,1,0,Kyste
+sein_527,0,1,Carcinome canalaire infiltrant
+sein_528,0,1,Cancer triple négatif
+sein_532,1,0,Adénose sclérosante
+sein_539,1,0,Tissu glandulaire
+sein_541,1,0,Galactophorite
+sein_542,1,0,Kyste
+sein_550,1,0,Tissu glandulaire
+sein_553,1,0,Tissu glandulaire
+sein_554,0,1,Cancer triple négatif
+sein_555,1,0,Tissu glandulaire
+sein_558,1,0,Tissu glandulaire
+sein_560,1,0,Galactophorite
+sein_561,1,0,Tissu glandulaire
+sein_564,1,0,Tissu glandulaire
+sein_566,1,0,Tissu glandulaire
